@@ -7,7 +7,9 @@
 <body>
 	
 	<script>
-		console.log("wet git");
+		console.log("wet git?");
+
+		console.log("why not?!")
 	</script>
 </body>
 </html>
